@@ -81,7 +81,7 @@ body {
 }
 
 .poems {
-text-align: center;
+text-align: left;
 font-family: arsenal_f;
 font-size: calc(var(--index) * 1);
 padding: calc(var(--index) * 1);
